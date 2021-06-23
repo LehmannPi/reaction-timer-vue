@@ -37,7 +37,7 @@ export default {
     start() {
       this.delay = 2000 + Math.random() * 5000;
       this.isPlaying = true;
-      this.showScore = false;
+      this.showResults = false;
       // console.log(this.delay);
     },
     endGame(reacTime) {
