@@ -1,4 +1,7 @@
 # reaction-timer
+Simple reaction time game.
+
+![](./react_time_ex.jpg)
 
 ## Project setup
 ```
